@@ -1,5 +1,4 @@
-#!/afs/cats.ucsc.edu/courses/cmps112-wm/usr/smalltalk/bin/gst -f
-"hzip.st was completed using pair programing by Andre Yamburg (ayamburg@ucsc.edu) and Dylan Welch (dtwelch@ucsc.edu)"
+"hzip.st was completed using pair programing by Andre Yamburg and Dylan Welch "
 
 nl := Character nl.
 
