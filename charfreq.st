@@ -1,4 +1,4 @@
-#!/afs/cats.ucsc.edu/courses/cmps112-wm/usr/smalltalk/bin/gst -f
+"Credit to Wesley Mackey for code that formed the basis of this file"
 "$Id: charfreq.st,v 1.6 2012-02-23 18:57:46-08 - - $"
 "Count frequency of input characters"
 
